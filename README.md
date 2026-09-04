@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Yunzhi — Backend systems, AI agents, and developer tools" />
-</p>
-
-<p align="center">
   <strong>I turn system ideas into reliable, useful software.</strong><br/>
   <sub>Backend engineering · Multi-agent applications · Developer tools</sub>
 </p>
